@@ -1,0 +1,5 @@
+Task:
+Share your git emails in chat and take couple of emails and send invite
+to them to become collaborators
+ 
+then push the files and merge them and remove the branches
